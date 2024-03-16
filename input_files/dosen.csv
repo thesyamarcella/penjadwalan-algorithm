@@ -1,0 +1,748 @@
+id_dosen	nip	nidn	id_pegawai	inisial	gelar_depan	nama_depan	nama_belakang	gelar_belakang	alamat	agama	telp_seluler
+1	3120170701	0415118305	1	ABF		Abdul	Roup	SE., M.Ak., CCNSP.	Kampung Cinyosog Rt 03/01 Desa Pasir Angin Kec. Cileungsi Kab. Bogor	Islam	085775456625
+2	3120191014	0405018804	3	AMY		Ade	Mulyana	S.SI., M.Kom.	Jl. Ashari Jaya, Indahsari No. 01 RT.01/01 Kel. Harjasari, Bogor Selatan, Kota Bogor	Islam	081807136111
+3	3120120903	0408097505	4	AYD		Ade	Yusdira	SE., MM.	Gg. Raden Kosasih RT 04/01 Bogor	Islam	081282613400
+4	3120011201	0411077402	8	ADF	Dr.	Adil	Fadillah	SE., MM, CSM.	Gg. Sawargi RT.001/RW.005 Kel. Cikaret, Bogor Selatan	Islam	085719719242
+5	3120140301	0409108402	12	ANA		Airin	Nuraini	SE., M.Si.	Komp. IPB I Sindang Barang I Bogor	Islam	082111763099
+6	3120170702	0415107701	14	AML		Amrulloh		SE., M.Si.	Kiara Residence Blok C 12 No. 3 Kec. Bogor Barat, Kota Bogor	Islam	08129621690
+7	3120141001	0410076603	15	AMK		Ani	Mekaniwati	SE., MP.	Griya Bogor Baru Indah A-3 Rt 004/016./ (Jl. Bukit Tasmania 24 Tanah Baru Bogor Utara)	Islam	081290321962
+8	3119990601	0429106501	16	AMM	Dr.	Annaria Magdalena 	Marpaung	SE., MM., M.Pd.	Jl. Pinang VIII No.2 TM.Yasmin Rt.01/09 Curug Mekar - Bogor	Kristen	081282129767
+9	3120191012	0202027402	17	ASS		Anton	Sukamto	S.Kom., M.T.I.	Komp. Abri Sukasari Rt 001/004 No. 21 Lawanggintung, Bogor	Islam	082310044917
+10	3120170502	0415126703	18	AWP		Anton Widio 	Pratomo	SE., MM.	Tirta Mas Residence Blok J-3, Kota Bogor	Islam	08161642452 / 081318586311
+11	3120191001	0423088103	19	ALP		Arde Lindung 	Pambudi	S.E., M.M.	Jl. Pekerti 10 Kedung Badak Rt 009/006 Kedung Badak	Islam	081319733100
+12	3120150401	0406037406	20	ARF		Arief	Fahmie	SE., MM., CAAT	Bougenville 15 blok O/7 Rt 008/007 Kel. Pasirlaja Kec. Sukaraja 	Islam	081310738383
+13	3120170703	0410088205	22	ARS		Arnold Sultantio 	Hutabarat	S.Hut., M.S.E.	Komp. SKMA Jl. Pasang No.15 Rt 02/04 Gunung Batu Bogor	Katholik	089628628291 / 08179030491
+14	3120220801	-	23	BTA	Dr.	Bahtiar	Arif	S.E., MA.Econ., Ak., CPA, CSFA, CFA.	Jl. Kebagusan III No. 58R, Mulia Kebagusan Residence, RT.09/RW.05 Kel. Kebagusan, Jakarta Selatan	-	08111616711
+15	3120160201	0407127402	25	BHR		Bambang Hengky 	Rainanto	S.Pi., MM., Ph.D., CIIQA	Jl. Antareja I No. 12 Indraprasta I Bogor	Islam	08128245626
+16	3119950502	0303046206	24	BPK	Prof. Dr.	Bambang	Pamungkas	Ak,. MBA, CA, CPA, CPA (Aust), ASEAN CPA, CIMBA, CSFA, CFA, CGAE.	Jl. Melati II Blok AG No. 7 Bo Baru, Bojong Gede - Bogor	Islam	0811193494
+17	3120160202	0401127804	27	BPS		Bayu Prasetyo 	Soedargo	S.SOS., MM.	Jl. Soka No. 3 Kampus IPB Rt 004/005 Babakan Dramaga Bogor	Islam	085692603199
+18	3120070401	0402037203	29	BSM		Bintang Sahala 	Marpaung	SP., MM.	Jl.Oto Iskandar Dinata III B No.11 Rt.001/05 Kec. Jatinegara	Kristen	081219558600
+19	3120140302	0423078004	30	BDS	Dr.	Budi	Setiawan	SE., M.Si.	Kaumpandak RT 2/1 Karadenan Cibinong Bogor	Islam	089671189069 / 085288464227
+20	3120191006	0412016603	34	CVS		Cecilia Valentina Srihadi 	Suryanti	Ir., M.Sc.	KPP IPB Baranangsiang 3 B20/13 Tegallega, Bogor Tengah	Katholik	081318314319
+21	3120170201	0428119104	35	CPS		Charles Parnauli 	Saragi	S.I.Kom., M.I.Kom.	Jl. Rukun No.17 Komplek Kedung Badak Baru RT.2/6 Tanah Sareal	Kristen	087827527522
+22	3120220802	-	40	DET	Dr	Daissy	Erdianthy	S.E., M.Ak., Ak., CA., ASEAN CPA	Jl. Kayujati I Gg.1 No.17 Rawamangun, Jakarta Timur	Islam	081285879684
+23	3120180702	0421098706	41	DAT		Danti	Astrini	SE., M.Si.	Baranang Siang Indah H2 No.6 C RT.008/RW.004, Katulampa	Islam	089673720529
+24	3119961101	0408036202	42	DHH	Dr.	David Hasudungan Marujahan 	Hasibuan	Ak., MM., CA, CTA.	Jl. Pinang VII/2 Taman Yasmin Sektor VI Bogor	Kristen	081315641464
+25	3120200901	0401019203	44	DTP		Denta	Purnama	SE., MM., CDM	Komplek Cyber Residen RT/1 RW/13 Blok D2 12C	Islam	085718832876
+26	3120070601	0420128002	45	DSE		Desi	Efrianti	SE., M.Ak.	Taman Yasmin Sektor VI Jalan Pinang Perak IV No. 17	Islam	081290391690
+27	3120170704	0426127403	46	DSY		Dessy	Evianti	SE., M.Ak.	Permata Depok Regency Ruby D.1 RT.005/RW.010, Kel. Ratu Jaya	Islam	08161409709
+28	3120220402	0420108103	47	DST	Dr.	Dewi Sarifah 	Tullah	S.E., M.Si., Ak., CA.	Kp. Pahlawan RT 004/RW 017, Kelurahan Cilendek Barat, Kecamatan Kota Bogor Barat, Kota Bogor 16112	Islam	081310971508
+29	3120191002	0422048603	48	DKY		Diah	Kusumayanti	S.P., M.Si.	Graha Aradea Blok Y12A, RT. 04 RW. 12 Desa Ciherang Kec. Dramaga Kab. Bogor	Islam	081211362014
+30	3120170705	0412076504	50	DDT		Didit	Pradipto	Ak., MM., CA	Jl. Amaliris II No.9 Taman Cimanggu Bogor	Islam	08121101265
+31	3120210201	0425046902	52	DHF		Donny Hendry 	Fahsani	S.Sos., M.Hum.	Kp. Bitung Ratna Rt. 04/02 Bitungsari Ciawi Bogor	Islam	08998586998
+32	3119990602	0427057410	54	ENA		Edi	Nurachmad	S.Kom., M.Kom.	Cimanggu Pabuaran Rt. 01/05 No Tanah Sareal	Islam	085693800384
+33	3120070403	0423116910	55	ESR		Edy	Safni Rosa	SH., MM.	JL.Drupada II No.31 Perum. Indraprasta II Bogor	Islam	08121112006
+34	3120191013	0419048603	57	EAP		Egi Adithia 	Pradana	S.Kom., M.Kom.	Jl. Mekar Saluyu Gg. sukun 2	Islam	08990615595
+35	3120230401	0408048504	68	FAL	Dr.	Fatimah	Abdillah	STP, M.Si., M.S.M.	Jl. Pakuan Ciheuleut 03/08 No.45, Baranangsiang, Bogor Timur 16143	Islam	08121105885
+36	3120200907	0419029203	69	FBD		Febri	Damatraseta	ST., M.Kom.	Cimanggu Permai Jl. Airlangga IV No. 36 Blok AX	Islam	081398894710
+37	3119981001	0418027702	72	FLR		Febry Lodwyk Rihe 	Riwoe	S.Kom., MM.	Jl. Pangeran Sogiri 219 Bogor	Kristen	081211619177
+38	3120180401	8861190018	74	FDA		Firdaus	Amyar	S.E., M.A., Ph,D., Ak., CA., LCCC., CSFA., CGAE.	Villa Bogor Indah 5 Blok CB 7 Bogor	Islam	081282804590
+39	3120140601	0419116903	77	GGG		Gen Gen 	Gendalasari	Dra., MM.	Kp.Anyar Rt.02/01 No.21 Desa Muarasari Bogor	Islam	08129572429
+40	3120170707	0417118005	78	HDT		Hadi	Sutomo	SE., M.Ak., BKP.	Jl. Cisokan III No. 161 RT. 00 Kec. Sukmajaya, Kota Depok	Islam	081283097233
+41	3120161102	0404037208	79	HDI	Dr.	Handono	Ishardyatmo	SE., Ak., MM.	Villa Alam Permai Blok A No.1 Jl. Jambore, Cimanggis	Islam	085959534972
+42	3120210203	8986320021	80	HDL		Hardini Lestiani 	Hernusa	SE., Ak., M.Sc., CA., AIEMA., CFE.	Petojo Enclek XIII No.15 A, Petojo Selatan, Gambir - DKI Jakarta	Islam	087777702308
+43	3120030105	0424096504	83	HDS	Dr.	Hendra	Setiawan	SE., MM., CMA., CIBA., PFM., CBV., CSRS.	Perum Villa Ciomas Indah Blok No.18 Rt.03/12 Bogor	Islam	082113211517
+44	3120200902	0413107302	84	HNI		Henry Sumurung 	Octavian	SE., MM	Jl. Danau Kerinci Blok E1/17 Duta Pakuan, Bogor	Islam	08129902340
+45	3119970402	0421107502	85	HRS		Heri	Sastra	SE., MM.	Perum Bojong Depok Baru II Blok F0 No.1	Islam	08121940340
+46	3120220601	8934700020	87	HRB	Dr.	Hery	Subowo	S.E., MPM., CIA, CA, CSFA, CPA, CFE, CFA, Ak., IIAP, CGAE	Dasana Indah Blok BD 10/24 RT 003 RW 032 Kelurahan Bojong nangka Kecamatan Kelapa Dua	Islam	08111019712
+47	3119941101	0426107502	88	HHW		Heti	Herawati	SE., M.Ak., CA	Kp. Salabenda, RT.001/RW.006 Parakanjaya, Kemang	Islam	087770804001
+48	3120180705	8851190018	91	IGS		I Gede Sudi 	Adnyana	SE., MBA, CSFA, ERMCP, CSRA, CGAP, CA., Ak.	Jl. Besakih 10A, Pemogan Denpasar	Hindu	08123960573
+49	3120170503	0401087906	93	ISW		Iis	Wahyuni	SE., M.Ak., AWP	Perum Alam Tirta Lestari No.22 Jl. Anggrek RT 006/014 Blok F2	Islam	081317570415
+50	3120030701	0415056001	97	IRY	Dr.	Iriyadi		Ak., M.Comm., CA	Jl. Kancra No.17 Cimanggu Perikanan, Bogor	Islam	0811110871
+51	3120191009	0407019105	99	ISM		Isnan	Mulia	S.Komp., M.Kom.	Ciparigi Indah Blok C No. 3 Bogor	Islam	081932080875
+52	3120030106	0405036904	100	ISA	Dr.	Iswandi	Sukartaatmadja	SE., MM., CIIQA, CRMA	Jl. Nurkas No.17 Paledang Bogor	Islam	08111105945
+53	3120220101	8982050022	103	IWP		Iwan Purwanto 	Sudjali	S.E., M.Bus. (Acc), Ph.D., Ak.	Jln. Sri Rejeki IX No. 17 RT.04/RW.02, Kalibanteng Kidul, Semarang	Katholik	081568285051
+54	3119991101	0411026501	104	JHP	Dr.	Jan Horas Veryady 	Purba	Ir.,M.Si., CBPA., CPSP.	Bukit Cimanggu City, Cluster Kencana, Oakwood KC 3A No 10. Tanah Sareal Bogor	Kristen	0818969740
+55	3120160203	0416017101	106	JSD		Jasmadeti		SE., M.Ak., AWP	Villa Ciomas Indah Blok L3 No.4 Ciomas Bogor	Islam	08121953478
+56	3120230402	-	107	JAW		Jemy	Arieswanto	S.Kom., M.Kom.	Perum Kopwani Village 2 Blok M No. 3 Jl. Abdul Gani 2, Kalibaru, Cilodong, Depok.	Islam	085710109695 / 08118189695
+57	3120161104	0416069302	111	KSM		Kusuma	Dewi	S.Akun., BKP., M.Ak., CAAT	Kp. Padasuka RT.004/RW.004 Kel. Gudang, Kec. Bogor Tengah	Islam	085719805327
+58		8999220021	115	MLT		Maju Lumban 	Tobing	SE., MM.	Jl. Drupada III No. 15 Bumi Indraprasta II Bogor	Kristen	081318800042
+59	3120161103	0428056701	116	MAU	Dr. Ir.	Mangasa Augustinus 	Sipahutar	MM.	Pesona Vancouver UB 2 No 24 Kota Wisata, Cibubur	Katholik	08159690567
+60	3120030107	0317057401	117	MWE		Marwan	Effendy	S.Kom., MMSI	Perum.Merdeka Residen Rt.3/28 No.11 Depok	Islam	0817170574
+61	3120160602	0416047507	118	MSH		Mashadi		SE., MM.	Komp. IPB Alam Sinarsari Jl. C Rt.04/04 Desa Sinarsari	Islam	081212219946
+62	3119950504	0431055501	121	MSD	Prof. Dr.	Moermahadi Soerja 	Djanegara	S.E., M.M., Ak., CPA., CA., CSFA, ASEAN CPA.	Jl. Megamendung III Blok EIV N Baranang Siang Indah Bogor	Islam	08161819242
+63	3120141201	0428066601	122	NRM		Mohammad Noorman 	Mulyadi	SE., MM.	Taman Yasmin VI Jl.Pinang V-14 Semplak Bogor	Islam	08121105027
+64	3120030601	0406126801	123	MRT		Morita		SS., M.Pd.	Jl. Roda No. 139 Bogor	Budha	081382278383
+65	3119940601	0429116001	124	MNS		Muanas		SE., MM., CA	Ciparigi Indah Blok C No.3 RT.001/RW.007, Bogor	Islam	08179169195
+66	3120000701	0417067601	128	MMM	Dr.	Mumuh	Mulyana	MM., M.Si., CSM., CSO., CBO, CCBA., CPSM., CBPA	Jl. Kapten Yusup Gg. Bebas Rt.01/08 No.65 Kotabatu Ciomas	Islam	081316371916
+67	3120061001	0015106301	131	NCY		Nani	Cahyani	Dra., M.Si.	Jl. Cemara II 15 Tmn Yasmin Bogor	Islam	08161872670
+68	3120200903	0417057101	133	NNN		Neni	Nurisnaini	SP., MM.	Griya Telaga Permai Blok A4 No.3 Tapos Depok	Islam	081383390245
+69	3120170708	0428099103	134	NLT		Nilda	Tartilla	SE., M.Ak.	Pabuaran Asri Blok A4/33	Islam	081283525645
+70	3120030108	8917870023	138	NMA	Dr.	Nusa	Muktiadji	Ir., MM.	Perum Bogor Raya Permai Blok FA IX/7 Bogor	Islam	08129350521
+71	3120180402	8841190018	140	PDZ		Pingky Dezar 	Zulkarnain	SE., M.Sc., Ph.D, CertDA	Jl. Palbatu II No. 45 RT.007/R Kel. Menteng Dalam, Kec. Tebet	Islam	087888116320
+72	3120200904	0411118404	141	PTJ		Pinto	Jaya	SE., MM.	Perumahan Taman Cibalagung Blok U-10, Pasir Jaya, Ciomas, Kab. Bogor	Islam	08154045295
+73	3120170709	0404057206	143	RWR		Rachmawaty	Rachman	SE., MM.	Jl. Cijahe No. 24 RT 005 RW 010 Curug Mekar Bogor Barat 	Islam	08128093309
+74	3119971001	0418026201	144	AMW	Dr. 	Raden Aang 	Munawar	M.M., CIFM., CIGS., CIMA., CIERM., CIBG.	Jl. Supraba No. 27 Indraprasta 1 Bantarjati Bogor	Islam	08129237191
+75	3120191008	0405099106	145	RDK		Rahma Djati 	Kusuma	S.SI., M.T.	Komp. IPB 2 Jl. Titan U No.8, RT.005/RW.004 Kel. Ciherang, Kec. Dramaga	Islam	081320927853
+76	3119990204	1115057003	147	RPT	Dr.	Ratih	Puspitasari	SE., MBA.	Danau Bogor Raya Blok H3 No.5A Bogor	Islam	08176301123
+77	3120170710	0403129102	149	RAS		Richad	Alamsyah	SE., M.Ak., CSA, CRMO, CFP, CRMP	Manatarena Lebak RT.002/RW.002 Kel. Panaragan, Bogor Tengah	Islam	087882811661
+78	3120030602	0423126902	152	RNS		Rini	Syarif	SH., MH.	Pura Bojonggede Blok L-6/43 RT.02/RW.19, Kec. Tajurhalang	Islam	087873332857
+79	3120120306	0318067205	155	RZL		Rizal	Riyadi	SE., MM.	Komp. Pakuan 2 - Tajur RT 001/ Jl. Dahlia Raya No. 43	Islam	085692061626
+80	3119990801	0410107302	157	RPP		Robert Pius 	Pardede	SE., MM.	Komplek Perumahan Taman Sari Persada, Taman Lotus B5/6 Bogor	Katholik	08151898915
+81	3119961201	0012096501	159	SFZ	Dr.	Saefudin	Zuhdi	Drs., M.M.	Kampung Caradamai RT 1 RW 06 No. 29 Kel Mekar Wangi Kec Tanah Sareal Kota Bogor	Islam	0811117119
+82	3120191004	0410118504	160	SNW		Sandy	Wibisono	S.Si., M.S.M.	Pavilion Residence A12 No.2 BSD City, Serpong - Tanggerang Selatan	Islam	08111634671
+83	3120191011	0415098702	162	SPC		Septian	Cahyadi	S.Kom., M.Kom.	Jl. Layungsari 3 No. 24 RT.03/16	Islam	08999506210
+84	3120120305	0401098602	165	STL		Sinta	Listari	SE., MM.	Jl. Batutulis Gg. lurah No.17 Rt 004/004 Bogor	Islam	081213442929
+85	3119981101	0427027501	169	SIR		Siti Ita 	Rosita	SE., MM., SAS., CAAT	Cimanggu Permai Jl. Airlangga Blok A/8 No. 50 Bogor	Islam	08128302454
+86	3120150304	0418049202	170	SOK		Soei	Khim	SE., MM.	Jl. Pinus No. T19 Budi Agung Bogor	Kristen	08179029829
+87	3120210901	0413086907	173	SEY		Sri Endah 	Yuwantiningrum	SE., M.M.Par	Pajajaran Regency Blok D-5 Katulampa, Bogor Timur	Islam	0817150140
+88	NIP DT: 3120230901\
+NIP DLB: 3320220202	0429108106	172	SPA	Dr.	Sri	Pujiastuti	S.E., M.Par.		-	081311654882
+89	3120150305	0415048302	174	SBA		Stanislaus Bandung Argo 	Putro	SE., MAB.	Kemang Regency K6 no 28B Bantar Kemang, Bogor Timur	Katholik	08158930317
+90	3120191010	0414128507	175	STU		Suci Sri Utami 	Sutjipto	S.T., M.Kom., MPP.	Jl Cikahuripan No.2 Rt.04 Rw.05 Baranangsiang, Tegallega, Bogor Tengah	Islam	0811141285
+91	3120161105	0419037710	176	SDJ		Sudradjat		SE., M.Ak., Ak., CA	Perumahan Pakuan Regency Clust Blok BX No.11	Islam	082111553877
+92	3120070402	0412056301	177	SHM		Suharmiati		Dra., MM.	Ciluar Permai Jl. Rajawali Blok. A3/07 Sukaraja Bogor	Islam	08129951927
+93	3119960801	0415066502	179	SJN		Sujana		SE., MM.	Taman Dramaga Permai Blok D 10-B Rt. 05/03 Bogor	Islam	081310579832
+94	3120160604	8851400016	180	SST	Prof.	Sukandi	Sukartaatmadja	Ir., MS., Ph.D.	KPP. IPB Blok F No. 2 Baranangsiang 3, Bogor	Islam	08129279790
+95	3120090702	0417026502	182	AST		Sulistiono		SE., MM., CSM	Jl. Raya Ciapus Gg. Kelapa No. 49 Desa Sirna Galih Bogor	Islam	081380261649
+96	3119981102	0405117501	186	STT	Dr.	Sutarti		SE., MM., SAS.	Desa Bitung Sari Rt. 04/11 Ciawi Bogor	Islam	081316370513
+97	3120210101	8971120021	189	SWN		Suwarno		S.E., M.Ak, Ak, CA, C.FrA, Asean CPA, CIS	Komplek Pesona Cilebut 2, Blok CB 6 No 9, Kecamatan Sukaraja, Kabupaten Bogor	Islam	08195185505
+98	3120030104	0414086202	192	TMS		Tarida Marlin Surya 	Manurung	Ir., MM.	Komp. Ciampea Asri, Bougenville Blok DII/10 Warung Borong, Bogor	Kristen	0817141291
+99	3120180706	8831190018	193	TJK		Tjokorda Gde Budi	Kusuma	S.T., M.Si., M.Int.Dev.E	Br. Kebon, RT.000/RW.000 Kel. Singapadu, Kec. Sukawati	Hindu	081286777287
+100	3120050503	0429087303	194	TNA		Toni	Andrianto	Ak., MM., CA	Jl. Sulawesi No.131 RT 03/09 Beji Depok Utara Jawa Barat	Islam	081388566457
+101	3119990203	0403036301	195	TMA		Tri	Marlina	SE., M.Ak.	Ciparigi Indah Blok C-3 Bogor	Islam	0818715390
+102	3120050504	0421106201	196	TRA		Triandi		M.Ak., Ak., CA.	Bukit Asri Ciomas Blok D 12/10 Bogor	Islam	0818715471
+103	3120171001	0423018504	199	TDF	(C) Dr.	Tubagus Dicky Faldy Syahid 	Noor	SN, SE, MH., MM., CDM	Gg. Sepatu No.30, RT/RW 01/02 Kel. Pabaton, Kec. Bogor Tengah	Islam	081294958788
+104	3119941102	0418077504	200	UPM		Udi	Pramiudi	SE., M.Ak, CIIQA	Bukit Asri Blok C17/17 Ciomas Bogor	Islam	081802993233
+105	3120170504	0413056701	201	ULS		Uluan	Silaen	SE., MM.	Gg. pangumbahan No.3 RT.03/04 Cikaret - Bogor Selatan	Kristen	08128560369
+106	3120170711	0419126701	202	WDW		Wadudi	Wibowo	Ir., M.Ec.Dev	Jl. Calincing III Blok DIV No.4 Vila Citra Bantarjati	Islam	081905000904
+107	3120200906	0428059105	203	WIS		Wahyu Indra 	Satria	S.Kom.,  M. Kom.	Taman Pagelaran, Jln. Beringin Blok A XI. No. 15, Ciomas-Bogor, 16610	Kristen	087777496497
+108	3119981103	8811070018	205	WMS		Weman	Suardy	SE., MM.	Jl. Janaka I No. 51 Bumi Indraprasta II Bogor	Islam	08121251946
+109	3120170101	0401096204	206	WPS		Wimpi	Srihandoko	SE., MM.	Villa Bogor Indah II Blok AAI No.2 Rt.004/014	Islam	085691823285
+110	3120170712	0418018404	207	WWR		Wulan Wahyuni Rossa 	Putri	S.Pd., M.Ak.	Kp Bojong Setra Rt 03/01 	Islam	085727186630
+111	3120191005	0428067703	208	WDU		Wulandari Dwi	Utari	S.Hut., M.Si.	Ciomas Hills Blok A3 No.18, RT.004/RW.001, Kel. Sukamakmur, Kec. Ciomas, Kab. Bogor	Kristen	081517160430
+112	3120040202	0423078506	209	YTH		Yanto	Hermawan	S.T, M.Kom.	Jl. Batutulis Gg. Lurah No. 17 RT. 004/004 Bogor Selatan	Islam	085693641115
+113	3119940501	0431057302	211	YYN		Yayuk	Nurjanah	SE., M.Ak., AWP, CIIQA, CAAT	Kebon Pedes No.96 Rt.03/10 Bogor	Islam	08174830900
+114	3119990802	0417057001	212	YYS		Yoyon	Supriadi	S.E., M.M., CSA., CIB.	Jl. Sukasari III No.63 Bogor	Islam	081314469998
+115	3120210202	0415078605	213	YTQ		Yudin	Taqyudin	S.Kom.I, M.Sos.	Kp. Ciapus No. 33 Rt 002/001 Ds. Sukamakmur, Kec. Ciomas	Islam	085694261297
+116	3120090701	0402077202	214	YNE	Dr.	Yulia	Nurendah	SE., MM.	Jl.Asem II No.5 B Cipete Selatan Jakarta Selatan	Islam	085714316312
+117	3120170713	0422077503	215	YLD		Yuliandi		SE., M.Ak.	Perum Mutiara Bogor Raya Blok Katulampa Bogor	Islam	08128392602
+118	3320090901	\N	217	ABS	\N	A. Budi 	Santosa	\N	\N	\N	\N
+119	3320150320	\N	218	AHS	\N	A. Hanifa 	Setianingrum	\N	\N	\N	\N
+120	3320150308	\N	219	ARK	\N	A. Richard 	Kusuma	\N	\N	\N	\N
+121	3120020934	\N	220	AAS	\N	Aan	Soelehan	\N	\N	\N	\N
+122	3320230911	\N	225	ADB	\N	Abdul Basit 	Hasanudin	\N	\N	\N	\N
+123	3319980934	\N	224	ABH	\N	Abdul	Hakim	\N	\N	\N	\N
+124	3320200912	\N	222	AKD	\N	Abdul	Kadim	\N	\N	\N	\N
+125	3320040927	\N	221	ADM	\N	Abdul	Muchji	\N	\N	\N	\N
+126	3319960916	\N	223	ABW	\N	Abdul	Wahid	\N	\N	\N	\N
+127	3320150318	\N	226	AKF	\N	Achmad	Kusfendi	\N	\N	\N	\N
+128	3320040901	\N	228	APS	\N	Achmad Perkasa 	S.	\N	\N	\N	\N
+129	3319980910	\N	227	AMS	\N	Achmad	Supriyadi	\N	\N	\N	\N
+130	3220210903	\N	6	ARW		Ade 	Darmawan	S.Ak.	Jl. Gunung Pongpok III No. 29	Islam	085774578994
+131	3119950501	\N	230	ASW	\N	Adi Soeprapto 	Widjojo	\N	\N	\N	\N
+132	3320000903	\N	231	ASG	\N	Adi Suranta 	Ginting	\N	\N	\N	\N
+133	3320040943	\N	229	AWD	\N	Adi	Widodo	\N	\N	\N	\N
+134	3120161101	\N	9	ADL		Aditya 	Lesmana	S.Ak.	Jl. Raya ciapus gg Asikin no.40 Rt 003/001 desa Tamansari Kec. Tamansari Kab. Bogor	Islam	089671046246
+135	3320000930	\N	232	AAK	\N	Adiwarman A.	K	\N	\N	\N	\N
+136	3320230903	\N	233	AHM	\N	Adler Haymans 	Manurung	\N	\N	\N	\N
+137	3320180302	\N	236	AHW	\N	Agung Hari 	Wibowo	\N	\N	\N	\N
+138	3320010903	\N	234	APB	\N	Agung	Prabowo	\N	\N	\N	\N
+139	3320210803	\N	237	APP	\N	Agung Prajuhana 	Putra	\N	\N	\N	\N
+140	3320130901	\N	235	ASN	\N	Agung	Susanto	\N	\N	\N	\N
+141	3320020931	\N	244	ABN	\N	Agus	Bintoro	\N	\N	\N	\N
+142	3319980921	\N	242	ANS	\N	Agus	Noorsanto	\N	\N	\N	\N
+143	3320180904	\N	239	AGN	\N	Agus	Nugroho	\N	\N	\N	\N
+144	3320100902	\N	243	AGP	\N	Agus	Purwanto	\N	\N	\N	\N
+145	3320000933	\N	241	AGS	\N	Agus	S.	\N	\N	\N	\N
+146	3320050909	\N	238	ASK	\N	Agus	Sukarno	\N	\N	\N	\N
+147	3320000909	\N	246	AUH	\N	Agus Uji 	Hantara	\N	\N	\N	\N
+148	3320150309	\N	240	AWY	\N	Agus	Wahyudin	\N	\N	\N	\N
+149	3320200919	\N	245	AGU	\N	Agus	Widodo	\N	\N	\N	\N
+150	3320220802	\N	247	ADA	\N	Agustine	Dwianika	\N	\N	\N	\N
+151	3320010904	\N	248	AIS	\N	Ahlan Irsjan 	Syarif	\N	\N	\N	\N
+152	3320040939	\N	249	ALF	\N	Ahlis	Fatoni	\N	\N	\N	\N
+153	3319960906	\N	252	AFS	\N	Ahmad Farhan 	S	\N	\N	\N	\N
+154	3320070905	\N	250	AHF	\N	Ahmad	Fauzi	\N	\N	\N	\N
+155	3320150319	\N	251	AHJ	\N	Ahmad	Junaedi	\N	\N	\N	\N
+156	3320170918	\N	253	ANC	\N	Ahmad Nur 	C	\N	\N	\N	\N
+157	3320230214	\N	254	ARD	\N	Ahmad Rinaldi 	Darmawan	\N	\N	\N	\N
+158	3320040917	\N	255	AHA	\N	Aidil Hendri 	Armen	\N	\N	\N	\N
+159	3320190902	\N	256	AMD	\N	Akhmad	Nurcahyadi	\N	\N	\N	\N
+160	3320230915	\N	257	APH	\N	Akhmad	Prihartanto	\N	\N	\N	\N
+161	3320040908	\N	258	ASH	\N	Akhsanul	Haq	\N	\N	\N	\N
+162	3320060903	\N	259	AYP	\N	Albert Yudha 	Poerwadi	\N	\N	\N	\N
+163	3320020949	\N	260	AFH	\N	Alfian Futuhul 	Hadi	\N	\N	\N	\N
+164	3320160302	\N	261	AAG	\N	Ali Akbar 	Gayo	\N	\N	\N	\N
+165	3320230210	\N	262	ARM	\N	Amalia	Rahmawati	\N	\N	\N	\N
+166	3320230207	\N	263	AMN	\N	Aman	Abadi	\N	\N	\N	\N
+167	3320020935	\N	264	AMH	\N	Amin	Handaya	\N	\N	\N	\N
+168	3320050903	\N	265	AMT	\N	Aming	Tirta	\N	\N	\N	\N
+169	3320230101	\N	266	AFN	\N	Amrie	Firmansyah	\N	\N	\N	\N
+170	3320000917	\N	267	ANH	\N	Anang	Heru	\N	\N	\N	\N
+171	3320040914	\N	268	ASF	\N	Ande	Sofiani	\N	\N	\N	\N
+172	3120120302	\N	269	AYA	\N	Andi Yudha Amwila 	P.	\N	\N	\N	\N
+173	3320180915	\N	270	AND	\N	Andre		\N	\N	\N	\N
+174	3320060303	\N	271	ADW	\N	Andri	Wijaya	\N	\N	\N	\N
+175	3320100306	\N	272	ADD	\N	Andriana	Devi	\N	\N	\N	\N
+176	3320160903	\N	273	ADR	\N	Andrizal		\N	\N	\N	\N
+177	3319980911	\N	274	AKP	\N	Angka	Priatna	\N	\N	\N	\N
+178	3320130904	\N	275	ANF	\N	Anif	Hanifa	\N	\N	\N	\N
+179	3320210201	\N	276	ADP	\N	Anindita	Pradana	\N	\N	\N	\N
+180	3120100301	\N	277	ASA	\N	Anna	Setiana	\N	\N	\N	\N
+181	3320180303	\N	278	ATU	\N	Anton Tri Untoro 	Raharjo	\N	\N	\N	\N
+182	3320160904	\N	280	AAB	\N	Ari	Ambardi	\N	\N	\N	\N
+183	3320220804	\N	279	APW	\N	Ari	Purwanti	\N	\N	\N	\N
+184	3320010914	\N	282	AAY	\N	Arief	Awaludyanto	\N	\N	\N	\N
+185	3319980909	\N	281	ATD	\N	Arief	Trihardianto	\N	\N	\N	\N
+186	3320230901	\N	283	AWS	\N	Aristanti	Widyaningsih	\N	\N	\N	\N
+187	3320000916	\N	284	AJB	\N	Arjanto	Basuki	\N	\N	\N	\N
+188	3220210302	\N	21	ADK		Armansyah 	Adhikara	S.Ak.	Villa Citra Bantarjati A.10/9B	Islam	089611433342
+189	3320170906	\N	285	ARL	\N	Arnold		\N	\N	\N	\N
+190	3320140905	\N	286	ARN	\N	Aryanto	Nur	\N	\N	\N	\N
+191	3320200901	\N	287	ASD	\N	Asdos		\N	\N	\N	\N
+192	3320150909	\N	288	ASP	\N	Asep Sofwan 	Munandar	\N	\N	\N	\N
+193	3320040921	\N	289	ATP	\N	Atipah	Suhartina	\N	\N	\N	\N
+194	3319980932	\N	290	AZW	\N	Azhari	Wardi	\N	\N	\N	\N
+195	3319900913	\N	291	BBS	\N	B. Bunawan 	S.	\N	\N	\N	\N
+196	3320180304	\N	292	BYS	\N	Bagus Yudo 	Sundono	\N	\N	\N	\N
+197	3320230916	\N	293	BCS	\N	Balqis	Citra S	\N	\N	\N	\N
+198	3320080302	\N	300	BHW	\N	Bambang	Herwanto	\N	\N	\N	\N
+199	3320030916	\N	297	BBL	\N	Bambang	Lukito	\N	\N	\N	\N
+200	3320120907	\N	295	BMY	\N	Bambang	Mulyana	\N	\N	\N	\N
+201	3320040925	\N	299	BBP	\N	Bambang	Pramudya	\N	\N	\N	\N
+202	3119990202	\N	296	BBR	\N	Bambang	Rahardjo	\N	\N	\N	\N
+203	3320170907	\N	294	BST	\N	Bambang	Sutrisna	\N	\N	\N	\N
+204	3320040940	\N	298	BWD	\N	Bambang	Wahyudiono	\N	\N	\N	\N
+205	3320010921	\N	301	BRZ	\N	Barizi	Masturi	\N	\N	\N	\N
+206	3320020955	\N	302	BHB	\N	Baruna	Hadibrata	\N	\N	\N	\N
+207	3319981105	\N	303	BSD	\N	Basiran	Sudardjo	\N	\N	\N	\N
+208	3320040930	\N	304	BSG	\N	Basri	Gumanti	\N	\N	\N	\N
+209	3320170914	\N	305	BAC	\N	Basuki Achmad 	C	\N	\N	\N	\N
+210	3320150321	\N	306	BYU	\N	Bayu		\N	\N	\N	\N
+211	3320150930	\N	307	BKT	\N	Berti	Kristiani	\N	\N	\N	\N
+212	3120201201	\N	308	BKM	\N	Biakman	Irbansyah	\N	\N	\N	\N
+213	3320030912	\N	309	BBD	\N	Bibib	Bradanaya	\N	\N	\N	\N
+214	3319900907	\N	310	BLM	\N	Bing	Limas	\N	\N	\N	\N
+215	3319950907	\N	311	BTS	\N	Bintatar	Sinaga	\N	\N	\N	\N
+216	3320000925	\N	312	BHD	\N	Boby	Handaka Ns	\N	\N	\N	\N
+217	3320060302	\N	313	BHS	\N	Boldson Herdianto 	S.	\N	\N	\N	\N
+218	3319900905	\N	314	BDN	\N	Boy	Djatnika	\N	\N	\N	\N
+219	3320040920	\N	315	BBB	\N	Budi	Berlian	\N	\N	\N	\N
+220	3120030102	\N	317	BHA	\N	Budi	Harni	\N	\N	\N	\N
+221	3320230906	\N	316	BDY	\N	Budi	Mulyana	\N	\N	\N	\N
+222	3320000927	\N	318	BSY	\N	Budi	Setiyono	\N	\N	\N	\N
+223	3320120904	\N	319	BDA	\N	Budiandru		\N	\N	\N	\N
+224	3120181102	\N	320	BDM	\N	Budiman	Marpaung	\N	\N	\N	\N
+225	3320060902	\N	322	BSW	\N	Budiman	Slamet	\N	\N	\N	\N
+226	3320040924	\N	321	ABT	\N	Budiman	T.	\N	\N	\N	\N
+227	3319900922	\N	323	BSS	\N	Bunasor	Sanim	\N	\N	\N	\N
+228	3320140305	\N	324	BRS	\N	Bungaran	Saragih	\N	\N	\N	\N
+229	3319980908	\N	325	BHP	\N	Buntoro H. 	Prasetya	\N	\N	\N	\N
+230	3319980933	\N	326	BHN	\N	Burhanuddin		\N	\N	\N	\N
+231	3320040923	\N	327	BHM	\N	Burhanudin	Malik	\N	\N	\N	\N
+232	3319900901	\N	328	BSK	\N	By.	Soekarno	\N	\N	\N	\N
+233	3320070301	\N	330	CRN	\N	Caria	Ningsih	\N	\N	\N	\N
+234	3320210202	\N	331	CRW	\N	Carwi		\N	\N	\N	\N
+235	3320050910	\N	332	CUM	\N	Chaerudin	Manaf	\N	\N	\N	\N
+236	3320010907	\N	334	CHD	\N	Chaidir		\N	\N	\N	\N
+237	3319970101	\N	333	CDN	\N	Chaidir	Nurdin	\N	\N	\N	\N
+238	3320000948	\N	335	CGD	\N	Chairil	Gunadharma	\N	\N	\N	\N
+239	3320100904	\N	336	CRA	\N	Choirul	Anwar	\N	\N	\N	\N
+240	3220190701	\N	36	CHS		Choirussolihah		S.M.	Cijujung Blodes RT.005/RW.002 , Cijujung ,Sukaraja, Kabupaten Bogor	Islam	087775752598
+241	3320140908	\N	337	CAG	\N	Chr.Armanto	Gondokusumo	\N	\N	\N	\N
+242	3320020904	\N	338	CSN	\N	Chusnanto		\N	\N	\N	\N
+243	3320040912	\N	339	CTA	\N	Cynthia	Agustina	\N	\N	\N	\N
+244	3120170202	\N	38	DSM		Dadan 	Sasmita	S.T.	Jl. Cereme RT 01/03, Desa Sinarsari, Kec. Dramaga, Kab. Bogor	Islam	082299984289
+245	3320080303	\N	340	DSB	\N	Dadang	Setiabudi	\N	\N	\N	\N
+246	3320010906	\N	341	DHJ	\N	Dadi	Harijadi	\N	\N	\N	\N
+247	3320020905	\N	342	DCR	\N	Dani Cahya 	Rukmana	\N	\N	\N	\N
+248	3120030101	\N	343	DNA	\N	Daniel Noor 	Achmad	\N	\N	\N	\N
+249	3320070901	\N	344	DKR	\N	Darjanti Kalpita R.	W	\N	\N	\N	\N
+250	3319980916	\N	345	DJM	\N	Darjanto	Manadi	\N	\N	\N	\N
+251	3320150910	\N	347	DWP	\N	Darwin M. 	Purba	\N	\N	\N	\N
+252	3320200908	\N	348	DAV	\N	Dave		\N	\N	\N	\N
+253	3320110302	\N	349	DVF	\N	David	Faizal	\N	\N	\N	\N
+254	3320090303	\N	350	DSP	\N	Deasy Srishantika 	Prasetyo	\N	\N	\N	\N
+255	3320090903	\N	351	DDS	\N	Dede Suherman 	S	\N	\N	\N	\N
+256	3319960908	\N	352	DIK	\N	Deni	Iskandar	\N	\N	\N	\N
+257	3320040937	\N	353	DVI	\N	Devi		\N	\N	\N	\N
+258	3319960907	\N	354	DMB	\N	Dewa Made 	Budiarta	\N	\N	\N	\N
+259	3320020940	\N	355	DWH	\N	Dewi	Hikmawati	\N	\N	\N	\N
+260	3320130302	\N	356	DWS	\N	Dewi Sri 	Merdekawati	\N	\N	\N	\N
+261	3320170919	\N	357	DIW	\N	Diah	Purwanti	\N	\N	\N	\N
+262	3120151001	\N	358	DWN	\N	Diah	Wahyuningsih	\N	\N	\N	\N
+263	3320040902	\N	359	DKN	\N	Dicky	Kusnandar	\N	\N	\N	\N
+264	3320030921	\N	360	DDK	\N	Didik	Kusnaini	\N	\N	\N	\N
+265	3120150301	\N	51	DIA		Dieni 	Aeni	S.M.	Kp kabandungan 2 Rt/Rw o2/11 Sirnagalih Tamansari Bogor	Islam	 087891250001
+266	3120150903	\N	361	DIP	\N	Dina Indah 	Pertiwi	\N	\N	\N	\N
+267	3320090902	\N	362	DNM	\N	Dino	Martin	\N	\N	\N	\N
+268	3320170917	\N	363	DAK	\N	Ditha Anggita	Kirana	\N	\N	\N	\N
+269	3320160905	\N	364	DKD	\N	Djati	Kusdiarto	\N	\N	\N	\N
+270	3320160304	\N	365	DJN	\N	Djoni	Wanasida	\N	\N	\N	\N
+271	3320150307	\N	366	DVN	\N	Dona Valida 	Nurhidayati	\N	\N	\N	\N
+272	3320080304	\N	367	DDD	\N	Donny	Danardono	\N	\N	\N	\N
+273	3320080907	\N	368	DNR	\N	Donny	Rahmanto	\N	\N	\N	\N
+274	3319960913	\N	329	MGD	\N	C. Moh. 	Gandhi	\N	\N	\N	\N
+275	3320210203	\N	369	DJS	\N	Drajat	Sugiarto	\N	\N	\N	\N
+276	3320030905	\N	370	DDH	\N	Dudi	Hermawan	\N	\N	\N	\N
+277	3320020948	\N	371	DSH	\N	Dudi S. 	Hendrawan	\N	\N	\N	\N
+278	3320230213	\N	372	DAN	\N	Dwi Ari 	Novianti	\N	\N	\N	\N
+279	3220220501	\N	53	DML		Dwi 	Maulina	S.M. 	Kp. Pasir Bagade RT 01/07 Desa Nagrak, Kec. Sukaraja, Kab. Bogor	Islam	0895704260387
+280	3320150311	\N	374	DKW	\N	Dyah	Kristyowati	\N	\N	\N	\N
+281	3320170908	\N	373	DYW	\N	Dyah	Purwanti	\N	\N	\N	\N
+282	3319940903	\N	375	EMS	\N	Eddy Mulyadi 	S	\N	\N	\N	\N
+283	3320180305	\N	377	EDS	\N	Edi	Basuki	\N	\N	\N	\N
+284	3320000944	\N	379	EBS	\N	Edi Budi 	Santoso	\N	\N	\N	\N
+285	3320120307	\N	378	AJM	\N	Edi	Jatmika	\N	\N	\N	\N
+286	3320150911	\N	376	ESD	\N	Edi	Sudaryanto	\N	\N	\N	\N
+287	3320020929	\N	380	EDN	\N	Edison		\N	\N	\N	\N
+288	3320030903	\N	381	EWS	\N	Edwin	Setiawan	\N	\N	\N	\N
+289	3320010915	\N	383	ETS	\N	Edy Tri 	Sujarwadi	\N	\N	\N	\N
+290	3320040916	\N	382	EWY	\N	Edy	Widiyanto	\N	\N	\N	\N
+291	3320140906	\N	384	EDT	\N	Eindye	Taufik	\N	\N	\N	\N
+292	3320020920	\N	385	EBR	\N	Eka Budi 	Raharja	\N	\N	\N	\N
+293	3320150912	\N	386	EDA	\N	Eka Dewi 	Agustina	\N	\N	\N	\N
+294	3320030919	\N	387	ERC	\N	Eko Rudy 	Cahyadi	\N	\N	\N	\N
+295	3319970903	\N	388	EES	\N	Ela Ellia 	Sari	\N	\N	\N	\N
+296	3320050908	\N	389	ENP	\N	Elan Nurhadi 	Purwanto	\N	\N	\N	\N
+297	3320230908	\N	390	EMW	\N	Elis	Mediawati	\N	\N	\N	\N
+298	3320030914	\N	391	ESW	\N	Ellya Soekanda 	Wijaya	\N	\N	\N	\N
+299	3119920101	\N	392	EMY	\N	Emmy	Supariyani	\N	\N	\N	\N
+300	3320080301	\N	394	EHS	\N	Enan Hasan 	Sjadili	\N	\N	\N	\N
+301	3320070902	\N	393	ENR	\N	Enan	Renan	\N	\N	\N	\N
+302	3320150313	\N	395	ECM	\N	Encep	Munawar	\N	\N	\N	\N
+303	3320000929	\N	397	ESN	\N	Endang S 	Nataatmadja	\N	\N	\N	\N
+304	3320030902	\N	396	ESY	\N	Endang	Sofyan	\N	\N	\N	\N
+305	3320010905	\N	398	END	\N	Endri		\N	\N	\N	\N
+306	3120040910	\N	399	EJM	\N	Enjang	Makmur	\N	\N	\N	\N
+307	3320050902	\N	400	ETB	\N	Enjang Tachyan 	B.	\N	\N	\N	\N
+308	3320020921	\N	401	ENJ	\N	Enjay	Sujaya	\N	\N	\N	\N
+309	3320230208	\N	402	ETA	\N	Enok Tuti 	Alawiah	\N	\N	\N	\N
+310	3320030924	\N	403	EJS	\N	Entjep	Sukandar	\N	\N	\N	\N
+311	3320020912	\N	404	EKS	\N	Eri	Krisna	\N	\N	\N	\N
+312	3320000931	\N	405	EKM	\N	Eri	Kusumah	\N	\N	\N	\N
+313	3320180306	\N	406	EHT	\N	Erick	Hetarya	\N	\N	\N	\N
+314	3320180916	\N	407	EIS	\N	Erik Irawan 	Suganda	\N	\N	\N	\N
+315	3320180307	\N	408	EDY	\N	Erma	Damayanti	\N	\N	\N	\N
+316	3120030103	\N	409	ENS	\N	Ernita	Siallagan	\N	\N	\N	\N
+317	3320120906	\N	410	EVN	\N	Ervina		\N	\N	\N	\N
+318	3120150302	\N	62	EVS		Ervina Indri 	Sari	S.E., M.Ak.	 Kp. Babakan RT 002 RW 004 Kel. Sukaraja Kec. Cikeas Kab. Bogor	Islam	082114698147
+319	3319980926	\N	411	EWN	\N	Erwin		\N	\N	\N	\N
+320	3320000915	\N	412	EJT	\N	Evi	Juliantiny	\N	\N	\N	\N
+321	3320140901	\N	413	FDL	\N	Fadly		\N	\N	\N	\N
+322	3320160906	\N	414	FWY	\N	Fajar	Wibhiyadi	\N	\N	\N	\N
+323	3319990909	\N	415	FNN	\N	Fanani		\N	\N	\N	\N
+324	3119990603	\N	67	FRG		Farhan Rinaldi 	Gunawan	S.Kom	Alam Tirta Lestari Jalan Melati Blok H9 No. 9 RT.004/014 Desa Pagelaran kecamatan Ciomas Kabupaten Bogor 16617	Islam	087884050109
+325	3320090302	\N	416	FHD	\N	Fatchudin		\N	\N	\N	\N
+326	3320020938	\N	418	FSS	\N	Fauzi	Syamsuar	\N	\N	\N	\N
+327	3320230211	\N	419	FNS	\N	Fazar Nugraha 	Sastraatmaja	\N	\N	\N	\N
+328	3320110306	\N	420	FZM	\N	Fazariah	Mahruzar	\N	\N	\N	\N
+329	3220190702	\N	421	FIL	\N	Febriana Indah 	Lestari	\N	\N	\N	\N
+330	3320200906	\N	422	FBR	\N	Febriani		\N	\N	\N	\N
+331	3320120910	\N	423	FPM	\N	Felix P. 	Mulya	\N	\N	\N	\N
+332	3319900916	\N	424	FTW	\N	Felix T. 	Suwarno	\N	\N	\N	\N
+333	3320040936	\N	425	FDS	\N	Ferdisar	Ardian	\N	\N	\N	\N
+334	3320000901	\N	426	FND	\N	Fernandus	Napitupulu	\N	\N	\N	\N
+335	3320050905	\N	427	FFY	\N	Fery	Feriyanto	\N	\N	\N	\N
+336	3320150929	\N	428	FDW	\N	Fidela	Suwito	\N	\N	\N	\N
+337	3119990201	\N	429	FZH	\N	Filani Zikri 	Hassan	\N	\N	\N	\N
+338	3320190305	\N	430	FNA	\N	Firly Nur 	Agustiani	\N	\N	\N	\N
+339	3320150913	\N	431	FSF	\N	Fitra	Syafaat	\N	\N	\N	\N
+340	3319900915	\N	432	FTS	\N	Flountinus	Sutisno	\N	\N	\N	\N
+341	3320040909	\N	433	FRD	\N	Fredi	Andria	\N	\N	\N	\N
+342	3320000920	\N	434	FBI	\N	Fubuan	Indrawan	\N	\N	\N	\N
+343	3320040942	\N	435	FLN	\N	Fulana		\N	\N	\N	\N
+344	3120160401	\N	76	GNG		Galih 	Nugraha	S.E., M.M.	Jl. Raya sindangbarang Perum Grande No. 5	Islam	082112843338
+345	3320030922	\N	436	GDS	\N	Gandy	Setiawan	\N	\N	\N	\N
+346	3120170706	\N	437	GJH	\N	Ganjar	Hendrian	\N	\N	\N	\N
+347	3320230206	\N	438	GRA	\N	Gapurendro	Ardhyogi	\N	\N	\N	\N
+348	3319980914	\N	439	GSS	\N	Gemala	Susanti	\N	\N	\N	\N
+349	3320080906	\N	440	GMM	\N	Glen M.	Mulcahy	\N	\N	\N	\N
+350	3319900919	\N	441	GRS	\N	Gloria	Suwiria	\N	\N	\N	\N
+351	3320220902	\N	442	GND	\N	Gunadi		\N	\N	\N	\N
+352	3319900921	\N	443	GNW	\N	Gunawan	T.	\N	\N	\N	\N
+353	3320150914	\N	445	GYN	\N	Guyub	Nuryanto	\N	\N	\N	\N
+354	3320040931	\N	446	PNM	\N	H.	Poernomo	\N	\N	\N	\N
+355	3319980923	\N	346	DYP	\N	Darto Yudi 	Priyanto	\N	\N	\N	\N
+356	3320000908	\N	447	HDM	\N	Hadi	Munadi	\N	\N	\N	\N
+357	3319980904	\N	448	HWY	\N	Hadi	Wahyudi	\N	\N	\N	\N
+358	3320020922	\N	449	HRL	\N	Hairul	Soleh	\N	\N	\N	\N
+359	3320020946	\N	450	HDN	\N	Hamdanah		\N	\N	\N	\N
+360	3320120908	\N	451	HMD	\N	Hamid	Prawira	\N	\N	\N	\N
+361	3319950903	\N	452	HGS	\N	Hari	Gursida	\N	\N	\N	\N
+362	3319980919	\N	453	HRA	\N	Hariadi		\N	\N	\N	\N
+363	3320040919	\N	454	HAY	\N	Hariseno	Acharyama	\N	\N	\N	\N
+364	3320000938	\N	455	HRY	\N	Hariyono		\N	\N	\N	\N
+365	3320170915	\N	456	HBK	\N	Harri	Baskoro	\N	\N	\N	\N
+366	3320080902	\N	458	HGU	\N	Harry Gusti 	Utama	\N	\N	\N	\N
+367	3120140303	\N	457	HRR	\N	Harry	Roestiono	\N	\N	\N	\N
+368	3320230202	\N	459	HTS	\N	Hartanto Satyo 	Nugraha	\N	\N	\N	\N
+369	3320010919	\N	460	HTN	\N	Hartono		\N	\N	\N	\N
+370	3220180903	\N	461	HRF	\N	Harum	Fanisa	\N	\N	\N	\N
+371	3320110901	\N	462	HYA	\N	Haryanki		\N	\N	\N	\N
+372	3320030920	\N	463	HSB	\N	Hasan	Bisri	\N	\N	\N	\N
+373	3119970902	\N	464	HSN	\N	Hastoni		\N	\N	\N	\N
+374	3320230102	\N	465	HLT	\N	Heliantono		\N	\N	\N	\N
+375	3320100302	\N	466	HLH	\N	Helmy	Harahap	\N	\N	\N	\N
+376	3320180312	\N	467	HNS	\N	Hen	Su	\N	\N	\N	\N
+377	3320120909	\N	468	HNB	\N	Hendra	Budiman	\N	\N	\N	\N
+378	3319980905	\N	469	HND	\N	Hendri		\N	\N	\N	\N
+379	3319900906	\N	470	HRG	\N	Henry	Gunawan	\N	\N	\N	\N
+380	3320180913	\N	471	HBP	\N	Herbayu	Prabowo	\N	\N	\N	\N
+381	3320140307	\N	472	HSS	\N	Heri	Susanto	\N	\N	\N	\N
+382	3320150928	\N	473	HYT	\N	Heriyanto		\N	\N	\N	\N
+383	3320000942	\N	474	HRD	\N	Herman	Rudiana	\N	\N	\N	\N
+384	3320020901	\N	475	HMW	\N	Hermawan	Wana	\N	\N	\N	\N
+385	3320000941	\N	476	HRH	\N	Herry	Harmadi	\N	\N	\N	\N
+386	3320020951	\N	477	HTW	\N	Hestu	Wijaya	\N	\N	\N	\N
+387	3320000911	\N	478	HHB	\N	Hizar	Hutabarat	\N	\N	\N	\N
+388	3320120905	\N	479	HTB	\N	Hotib		\N	\N	\N	\N
+389	3119990501	\N	90	HST		Husnul 	Toyibah	S.Sos.	Jl. Roda No. 137/3 RT.01/RW.09m Kelurahan Babakan Pasar, Kec.Bogor Tengah, Kota Bogor 	Islam	087870876333
+390	3320090904	\N	480	IKT	\N	I Ketut 	Suarta	\N	\N	\N	\N
+391	3320221101	\N	481	NSA	\N	I Nengah Suka 	Arta	\N	\N	\N	\N
+392	3319980927	\N	482	INS	\N	I Nyoman 	Sudiarsa	\N	\N	\N	\N
+393	3120141202	\N	483	WTT	\N	I Wayan Teg 	Teg	\N	\N	\N	\N
+394	3320000918	\N	486	IEK	\N	I.E.Kamili		\N	\N	\N	\N
+395	3320150306	\N	487	IRD	\N	I.Ronald David 	Mongkaw	\N	\N	\N	\N
+396	3320020937	\N	488	IPN	\N	Ibnu	Purnomo	\N	\N	\N	\N
+397	3119970403	\N	92	IFY		Idah 	Fitriyah	S.E., M.M. 	Bukit Kayumanis Blok D No. 8-9 Rt 006/012 Tanah Sareal Bogor	Islam	087711361791
+398	3319960912	\N	489	ITL	\N	Ignatius	Lana	\N	\N	\N	\N
+399	3320170909	\N	490	IKG	\N	Ika	Gunawan	\N	\N	\N	\N
+400	3320100905	\N	491	IWS	\N	Ikhwan	Suyudi	\N	\N	\N	\N
+401	3320150916	\N	492	IYT	\N	Ilma	Yuliastika	\N	\N	\N	\N
+402	3320000939	\N	493	ILU	\N	Ilmi	Usman	\N	\N	\N	\N
+403	3320120308	\N	494	IBR	\N	Imam	Basriman	\N	\N	\N	\N
+404	3320230913	\N	495	ISP	\N	Indra	Saputra	\N	\N	\N	\N
+405	3320080901	\N	496	ITN	\N	Ino	Sutrisno	\N	\N	\N	\N
+406	3320040918	\N	497	ISH	\N	Iqri Sulizar 	Hidriansjah	\N	\N	\N	\N
+407	3320210802	\N	498	IEF	\N	Irpan	Effendi	\N	\N	\N	\N
+408	3320120911	\N	499	IWH	\N	Irwan	Hartanto	\N	\N	\N	\N
+409	3319980913	\N	500	IPS	\N	Isaak	Prawirasuta	\N	\N	\N	\N
+410	3319900911	\N	501	IKS	\N	Iskandar	Sukadi	\N	\N	\N	\N
+411	3320170904	\N	502	IST	\N	Ismatarya		\N	\N	\N	\N
+412	3320110303	\N	503	IQF	\N	Istiqomah	Fauzia	\N	\N	\N	\N
+413	3320040933	\N	504	ITA	\N	Ita		\N	\N	\N	\N
+414	3320030917	\N	505	IVR	\N	Ivan	Rusdian	\N	\N	\N	\N
+415	3320230204	\N	506	ISY	\N	Iwan	Supriyono	\N	\N	\N	\N
+416	3319980918	\N	507	JHJ	\N	J. Hayati 	Jivai	\N	\N	\N	\N
+417	3320000906	\N	508	JKA	\N	J. Kuntjoro	A	\N	\N	\N	\N
+418	3319960914	\N	509	JND	\N	Jaenudin		\N	\N	\N	\N
+419	3320140902	\N	510	JNE	\N	Jane		\N	\N	\N	\N
+420	3320230912	\N	511	JWD	\N	Jarwadi	Djafar	\N	\N	\N	\N
+421	3320010913	\N	512	JTA	\N	Jenthu	Apolunanto	\N	\N	\N	\N
+422	3320230904	\N	513	JNS	\N	Jhonni	Sinaga	\N	\N	\N	\N
+423	3320020918	\N	515	JHN	\N	Johanes		\N	\N	\N	\N
+424	3320050907	\N	516	JFP	\N	Johanes F.De 	Poere	\N	\N	\N	\N
+425	3119950901	\N	514	JSK	\N	Johanes	Sukadi	\N	\N	\N	\N
+426	3320140910	\N	518	JKM	\N	Joko	Marsudi	\N	\N	\N	\N
+427	3319940906	\N	517	JKS	\N	Joko	Suparto	\N	\N	\N	\N
+428	3320160907	\N	519	JCJ	\N	Juliana Citra 	Jaya	\N	\N	\N	\N
+429	3320040906	\N	520	KLN	\N	Kailani		\N	\N	\N	\N
+430	3320160901	\N	521	KSS	\N	Karsam	Sunaryo	\N	\N	\N	\N
+431	3320000932	\N	522	KRT	\N	Kartika		\N	\N	\N	\N
+432	3319981104	\N	523	KPR	\N	Kasmin	Pasaribu	\N	\N	\N	\N
+433	3319960915	\N	524	KMF	\N	Kemas M. 	Ferri	\N	\N	\N	\N
+434	3319960901	\N	525	KTS	\N	Ketut	Sunarta	\N	\N	\N	\N
+435	3120170204	\N	110	KRR		Khairul Rachmat 	Rangkuti	S.Akun.	Kp. Ciomas 1 No. 13 Rt 02/01 Ciomas Rahayu kec. Ciomas Bogor	Islam	08568828882
+436	3319960905	\N	526	KME	\N	Komara	Effendi	\N	\N	\N	\N
+437	3320130906	\N	527	KRS	\N	Kris	Tan	\N	\N	\N	\N
+438	3319900912	\N	528	KMH	\N	Kusna Murti 	Hasibuan	\N	\N	\N	\N
+439	3319980907	\N	529	KND	\N	Kusnandar		\N	\N	\N	\N
+440	3320010901	\N	530	LRN	\N	L. Rinto 	Nugroho	\N	\N	\N	\N
+441	3320100303	\N	531	LNW	\N	Lanawati		\N	\N	\N	\N
+442	3320000936	\N	532	DWW	\N	Letkol (Purn) Dwiwanto		\N	\N	\N	\N
+443	3319950909	\N	533	LHY	\N	Lies	Haryono	\N	\N	\N	\N
+444	3320230905	\N	534	LML	\N	Lila	Muliani	\N	\N	\N	\N
+445	3320150931	\N	535	LLD	\N	Liliana	Dewi	\N	\N	\N	\N
+446	3319950908	\N	536	LJA	\N	Lilies J. 	Arief	\N	\N	\N	\N
+447	3320000907	\N	537	LNP	\N	Linda	Nataprawira	\N	\N	\N	\N
+448	3320100304	\N	538	LTK	\N	Listiarko	Wijito	\N	\N	\N	\N
+449	3320170901	\N	539	LTW	\N	Listio	Wuryanto	\N	\N	\N	\N
+450	3320010923	\N	540	LJS	\N	Louis Jusuf 	Suwita	\N	\N	\N	\N
+451	3320070904	\N	541	LAR	\N	Lucy	Anggraini	\N	\N	\N	\N
+452	3320180308	\N	542	LFO	\N	Lufianti	Ocktami	\N	\N	\N	\N
+453	3319980906	\N	543	LSJ	\N	Luhut	Simanjuntak	\N	\N	\N	\N
+454	3119950503	\N	544	LMH	\N	Lukas	Murdihardjo	\N	\N	\N	\N
+455	3119990605	\N	545	LKH	\N	Lukman	Hidayat	\N	\N	\N	\N
+456	3120080903	\N	546	LHA	\N	Lukmanul Hakim A. 	Djabbar	\N	\N	\N	\N
+457	3320000902	\N	547	LGS	\N	Lutfi Gana 	Sukardi	\N	\N	\N	\N
+458	3320160301	\N	548	LVS	\N	Lutvi	Sukmawati	\N	\N	\N	\N
+459	3320040928	\N	555	MBJ	\N	M.	Bajeri	\N	\N	\N	\N
+460	3320020925	\N	551	MDN	\N	M.	Danial	\N	\N	\N	\N
+461	3320130905	\N	557	MJS	\N	M. Harja 	Supena	\N	\N	\N	\N
+462	3320000935	\N	554	MJM	\N	M.	Jamil	\N	\N	\N	\N
+463	3319980937	\N	550	MLN	\N	M.	Manullang	\N	\N	\N	\N
+464	3320010920	\N	558	MNO	\N	M. Noor 	Salim	\N	\N	\N	\N
+465	3319960902	\N	553	MSN	\N	M.	Sanyoto	\N	\N	\N	\N
+466	3319980928	\N	549	MSG	\N	M.	Sinaga	\N	\N	\N	\N
+467	3319990910	\N	556	MSF	\N	M.	Sofal Subhi	\N	\N	\N	\N
+468	3320020932	\N	552	MUM	\N	M.	Usman	\N	\N	\N	\N
+469	3319980924	\N	559	MZM	\N	M. Zahrul 	Muttaqin	\N	\N	\N	\N
+470	3320020926	\N	560	MHJ	\N	M.Hadijono		\N	\N	\N	\N
+471	3320020924	\N	561	MSA	\N	Machsunul	Alim	\N	\N	\N	\N
+472	3320150917	\N	562	MKS	\N	Mada	Kresna	\N	\N	\N	\N
+473	3319900920	\N	563	MFK	\N	Maftukin		\N	\N	\N	\N
+474	3319980936	\N	564	MHS	\N	Mangahit	Sinaga	\N	\N	\N	\N
+475	3320180906	\N	565	MNB	\N	Mangasi	Naibaho	\N	\N	\N	\N
+476	3320230209	\N	566	MRH	\N	Mardiah		\N	\N	\N	\N
+477	3320150918	\N	567	MRU	\N	Maria	Ulfa	\N	\N	\N	\N
+478	3319990905	\N	568	MTS	\N	Martono Tjokro 	Sapoetro	\N	\N	\N	\N
+479	3320000904	\N	569	MLM	\N	Marully	Manullang	\N	\N	\N	\N
+480	3320120913	\N	570	MLI	\N	Mashlahul	Ihsan	\N	\N	\N	\N
+481	3320000928	\N	571	MLA	\N	Maulana	Abdullah	\N	\N	\N	\N
+482	3320040935	\N	572	MMN	\N	May	Mulyaningsih	\N	\N	\N	\N
+483	3319970901	\N	573	TDS	\N	Mayor (Purn) Teddy Saleh		\N	\N	\N	\N
+484	3120190701	\N	119	MMY		Mesy 	Mayangsari	S.Pd., M.Pd.	BTN Tanah Baru Permai Blok E jl.Sejahtera II no.60 Bogor 16154	Islam	081912742114
+485	3319900903	\N	574	MSM	\N	Mien	Suhermin	\N	\N	\N	\N
+486	3320120901	\N	575	MTH	\N	Miftahudin		\N	\N	\N	\N
+487	3320040903	\N	576	MSB	\N	Moch.	Sabur	\N	\N	\N	\N
+488	3319960101	\N	577	MSS	\N	Moch. Sumardi 	Sulaeman	\N	\N	\N	\N
+489	3320150919	\N	578	MMS	\N	Mochamad	Muslih	\N	\N	\N	\N
+490	3320220806	\N	579	MJF	\N	Mochammad Jafar Tri 	Febriansyah	\N	\N	\N	\N
+491	3320190302	\N	580	MIS	\N	Mohamad Iqbal 	Suriansyah	\N	\N	\N	\N
+492	3320030913	\N	583	MAY	\N	Mohammad Arif 	Yunus	\N	\N	\N	\N
+493	3319990908	\N	582	MEF	\N	Mohammad	Erfan	\N	\N	\N	\N
+494	3320120902	\N	581	MMF	\N	Mohammad	Fuad	\N	\N	\N	\N
+495	3320040938	\N	584	MAI	\N	Monica Amani 	I	\N	\N	\N	\N
+496	3320010902	\N	585	MNN	\N	Muana	Nanga	\N	\N	\N	\N
+497	3319990901	\N	586	MDY	\N	Mudiyoko		\N	\N	\N	\N
+498	3120221001	\N	125	MHI		Muhaimin		S.Kom.	Kp. Jampang Jl. Mad noer rt/rw 02/04 ds. jampang kec. kemang Bogor	Islam	087873932663
+499	3320150920	\N	587	AAF	\N	Muhamad Agung Ali 	Fikri	\N	\N	\N	\N
+500	3320180309	\N	593	MAM	\N	Muhammad Abdul 	Muis	\N	\N	\N	\N
+501	3320200904	\N	594	MRD	\N	Muhammad Ardhi 	Maulana	\N	\N	\N	\N
+502	3119990701	\N	590	MAF	\N	Muhammad	Arifin	\N	\N	\N	\N
+503	3320150922	\N	588	NSR	\N	Muhammad	Nashar	\N	\N	\N	\N
+504	3320150921	\N	595	MNA	\N	Muhammad Nur 	Afif	\N	\N	\N	\N
+505	3320170910	\N	589	MNM	\N	Muhammad	Nurminto	\N	\N	\N	\N
+506	3119990904	\N	592	NZM	\N	Muhammad	Nuruzzaman	\N	\N	\N	\N
+507	3320100901	\N	591	MMW	\N	Muhammad	Wafi	\N	\N	\N	\N
+508	3319980930	\N	596	MJA	\N	Muji	Akbar	\N	\N	\N	\N
+509	3319900917	\N	597	MKE	\N	Muklar	Efendi	\N	\N	\N	\N
+510	3320020954	\N	598	MMH	\N	Mulya	Murprihartono	\N	\N	\N	\N
+511	3320000950	\N	599	MLY	\N	Mulyadi		\N	\N	\N	\N
+512	3320230201	\N	600	MYN	\N	Mulyana		\N	\N	\N	\N
+513	3320180911	\N	601	MQD	\N	Muroqdatuddairoh		\N	\N	\N	\N
+514	3320000953	\N	602	MSL	\N	Muslihat		\N	\N	\N	\N
+515	3320000947	\N	603	MTK	\N	Mustofa	Kamal	\N	\N	\N	\N
+516	3120150904	\N	604	MST	\N	Muti	Sulistian	\N	\N	\N	\N
+517	3320010916	\N	605	NKW	\N	N.	Krisnawenda	\N	\N	\N	\N
+518	3320200911	\N	606	NDA	\N	Nadia		\N	\N	\N	\N
+519	3320230917	\N	607	NAC	\N	Nadya Artha Christiani 	Sitanggang	\N	\N	\N	\N
+520	3320030906	\N	608	NNP	\N	Nanang	Priyatna	\N	\N	\N	\N
+521	3320020941	\N	609	NSD	\N	Nandan	Sandaya	\N	\N	\N	\N
+522	3320040904	\N	610	NIA	\N	Naomi Indiani 	Arijanto	\N	\N	\N	\N
+523	3320230902	\N	611	NMM	\N	Nera Marinda 	Machdar	\N	\N	\N	\N
+524	3319980901	\N	612	NAT	\N	Nina	Agustina	\N	\N	\N	\N
+525	3320230212	\N	613	NSM	\N	Nio	She Mi	\N	\N	\N	\N
+526	3320220201	\N	614	NRU	\N	Nisa Rahmaniah 	Utami	\N	\N	\N	\N
+527	3319940904	\N	615	NZK	\N	Nizar	Kamil	\N	\N	\N	\N
+528	3320020906	\N	616	NKA	\N	Nizar Kauzar 	A	\N	\N	\N	\N
+529	3320000940	\N	617	NRR	\N	Noor	Rafita	\N	\N	\N	\N
+530	3320030907	\N	618	NAD	\N	Nur	Abdillah	\N	\N	\N	\N
+531	3320020923	\N	619	NWC	\N	Nur Wanto C 	Negoro	\N	\N	\N	\N
+532	3320030908	\N	620	NHY	\N	Nurhayanto		\N	\N	\N	\N
+533	3320000945	\N	621	NRK	\N	Nurrisky	M.	\N	\N	\N	\N
+534	3120160603	\N	136	NRS		Nurul 	Asfiya	S.E., M.Ak.	Kp. Sanja RT02 RW05 No.26	Islam	081291128012
+535	3120180901	\N	622	NRF	\N	Nurul	Fadillah	\N	\N	\N	\N
+536	3220210601	\N	137	NRI		Nurul 	Iman	S.Ak.	Kp. Panggulaan RT 02/01 No. 30 Desa Sukaraja Kec. Sukaraja  Kab. Bogor 	Islam	089654110184
+537	3320010909	\N	623	NWJ	\N	Nurwijaya		\N	\N	\N	\N
+538	3320040929	\N	417	FTY	\N	Fatimah 	Yulian	\N	\N	\N	\N
+539	3320150923	\N	624	NNL	\N	Nyayu L. 	Tirdasari	\N	\N	\N	\N
+540	3320030923	\N	625	OHD	\N	Oke	Hendradhy	\N	\N	\N	\N
+541	3319940902	\N	626	OBS	\N	Otto B.	Sunaryo	\N	\N	\N	\N
+542	3320020913	\N	627	PUZ	\N	Pauzi		\N	\N	\N	\N
+543	3320020902	\N	444	GNT	\N	Guntar 	Napitupulu	\N	\N	\N	\N
+544	3320040915	\N	484	IBE	\N	I. B. 	Elisa	\N	\N	\N	\N
+545	3319960911	\N	692	SZM	\N	Saroziduhu	Marunduri	\N	\N	\N	\N
+546	3320020911	\N	628	PKS	\N	Perak	Samosir	\N	\N	\N	\N
+547	3320010924	\N	629	PBB	\N	Peter B. Broto	W.	\N	\N	\N	\N
+548	3320140308	\N	630	PMT	\N	Porman	Tambunan	\N	\N	\N	\N
+549	3320150315	\N	631	PAM	\N	Prahana Aditya 	Mosada	\N	\N	\N	\N
+550	3320130903	\N	632	PNA	\N	Priyandra Nur 	A.	\N	\N	\N	\N
+551	3319960903	\N	485	INN	\N	I. Nyoman S.	Nuitja	\N	\N	\N	\N
+552	3320230909	\N	633	PNL	\N	Purwatiningsih	Lisdiono	\N	\N	\N	\N
+553	3320210804	\N	634	PCD	\N	Putri	Cholidhazia	\N	\N	\N	\N
+554	3320140909	\N	635	RMG	\N	Rachmat	Gunawan	\N	\N	\N	\N
+555	3120180914	\N	636	RYR	\N	Raden Yudi Ramdan 	Budiman	\N	\N	\N	\N
+556	3320000937	\N	637	RJS	\N	Radjiman	Sitopu	\N	\N	\N	\N
+557	3320000912	\N	638	RFA	\N	Rafieq	Ansyari	\N	\N	\N	\N
+558	3320200909	\N	639	RFI	\N	Rafika	Hardini	\N	\N	\N	\N
+559	3320160305	\N	640	RMT	\N	Rahmat	Irawan	\N	\N	\N	\N
+560	3320020942	\N	641	RMY	\N	Rahmayanti		\N	\N	\N	\N
+561	3320020952	\N	642	RMS	\N	Ramando	Sinaga	\N	\N	\N	\N
+562	3320180905	\N	643	RMD	\N	Ramdani		\N	\N	\N	\N
+563	3320120912	\N	644	RML	\N	Ramlan		\N	\N	\N	\N
+564	3120001101	\N	146	RAN		Ranti 	Sugiarti	S.E., M.M.	Perum. Mina Bhakti Blok A No.10 Rt.06/03, Cikaret, Bogor Selatan	Islam	 085893817358
+565	3320200920	\N	645	RTK	\N	Ratih	Kumala	\N	\N	\N	\N
+566	3319940602	\N	646	RNW	\N	Ratnawita		\N	\N	\N	\N
+567	3320220807	\N	647	RHP	\N	Reifan Hadaya 	Putra	\N	\N	\N	\N
+568	3320160303	\N	648	RSA	\N	Renea Shinta 	Aminda	\N	\N	\N	\N
+569	3320010911	\N	649	RKS	\N	Renny K. 	Sanduan	\N	\N	\N	\N
+570	3320000949	\N	650	RHS	\N	Revoldi H. 	Siringoringo	\N	\N	\N	\N
+571	3320190901	\N	651	RAW	\N	Reza Ahmad 	Wildan	\N	\N	\N	\N
+572	3320000910	\N	652	RNT	\N	Rianto	Siregar	\N	\N	\N	\N
+573	3320050906	\N	653	RAZ	\N	Ricky	Avenzora	\N	\N	\N	\N
+574	3320050911	\N	654	RWS	\N	Ridwan	Syarif	\N	\N	\N	\N
+575	3320180907	\N	655	RSE	\N	Riecha	Santiecha	\N	\N	\N	\N
+576	3320180912	\N	656	RFF	\N	Rifan	Fauzi	\N	\N	\N	\N
+577	3320000934	\N	657	RRA	\N	Rike R. 	Ayuningsih	\N	\N	\N	\N
+578	3320020947	\N	658	RNA	\N	Rina	Apriana	\N	\N	\N	\N
+579	3320050913	\N	659	RNB	\N	Rina	Budiarti	\N	\N	\N	\N
+580	3120181101	\N	154	RNG		Rini 	Gusdiani	S.Ak.	Jl. Ledeng No. 347B RT. 006/RW.004, Kel. Gunung Batu, Kec. Kota Bogor Barat	Islam	085773204444
+581	3320170911	\N	660	RSW	\N	Rini	Septowati	\N	\N	\N	\N
+582	3120100903	\N	661	RYP	\N	Rini Yuli 	Prihatin	\N	\N	\N	\N
+583	3320020914	\N	662	RTT	\N	Rinto	Tristiadi	\N	\N	\N	\N
+584	3320140904	\N	663	RKI	\N	Risky	Irawan	\N	\N	\N	\N
+585	3319980917	\N	665	RFD	\N	Rita	Farida	\N	\N	\N	\N
+586	3120191007	\N	664	RTF	\N	Rita	Fathiah	\N	\N	\N	\N
+587	3319980922	\N	666	RZR	\N	Riza	Rosadi	\N	\N	\N	\N
+588	3320080905	\N	667	RZS	\N	Riza	Sativa	\N	\N	\N	\N
+589	3120191003	\N	668	RZD	\N	Rizda	Dwiyanti	\N	\N	\N	\N
+590	3320230203	\N	670	RAP	\N	Rizki Adhi 	Pratama	\N	\N	\N	\N
+591	3320230907	\N	669	RRN	\N	Rizki	Raksanugraha	\N	\N	\N	\N
+592	3319900923	\N	671	ROM	\N	Rochmadi		\N	\N	\N	\N
+593	3320150317	\N	672	RSP	\N	Roni	Syaputra	\N	\N	\N	\N
+594	3320170905	\N	673	RST	\N	Rositawati		\N	\N	\N	\N
+595	3320160909	\N	674	RVA	\N	Rotua Veronika 	Ariester	\N	\N	\N	\N
+596	3320090301	\N	675	RPM	\N	Roup	Purohim	\N	\N	\N	\N
+597	3320000926	\N	676	RDS	\N	Rudi	Suprayudi	\N	\N	\N	\N
+598	3320030915	\N	677	RDA	\N	Rudianto		\N	\N	\N	\N
+599	3320080306	\N	678	RJT	\N	Rujito		\N	\N	\N	\N
+600	3320030918	\N	679	RHD	\N	Rulhendri		\N	\N	\N	\N
+601	3320030901	\N	680	RAF	\N	Ruli Achmad 	Fadjari	\N	\N	\N	\N
+602	3320200917	\N	681	RLY	\N	Rully	Alfachandra	\N	\N	\N	\N
+603	3320020939	\N	682	RMW	\N	Ruri	Marlinawati	\N	\N	\N	\N
+604	3320000943	\N	683	RSD	\N	Rusmadi		\N	\N	\N	\N
+605	3319980902	\N	684	RTB	\N	Ruston	Tambunan	\N	\N	\N	\N
+606	3320020909	\N	685	SMB	\N	S.M.	Sinambela.	\N	\N	\N	\N
+607	3320220801	\N	686	SLD	\N	Sailendra		\N	\N	\N	\N
+608	3120010910	\N	687	SMS	\N	Samuel	Soemantri	\N	\N	\N	\N
+609	3320200913	\N	688	SMC	\N	Sandra	Monica	\N	\N	\N	\N
+610	3320180902	\N	689	STS	\N	Santi	Septianti	\N	\N	\N	\N
+611	3319940905	\N	690	SAD	\N	Sapto Amal 	D	\N	\N	\N	\N
+612	3320040922	\N	691	SLS	\N	Sarlan	Sianturi	\N	\N	\N	\N
+613	3320020957	\N	693	SDN	\N	Sasmita	Djatnika	\N	\N	\N	\N
+614	3320170912	\N	694	SGT	\N	Saut Ganti Tua 	H.	\N	\N	\N	\N
+615	3320100307	\N	695	SAM	\N	Sekar Arum 	Mandalia	\N	\N	\N	\N
+616	3320030909	\N	696	SDR	\N	Sepitri	Daruyani	\N	\N	\N	\N
+617	3320180310	\N	697	STP	\N	Setio	Pramono	\N	\N	\N	\N
+618	3320230910	\N	698	SBR	\N	Seto	Baruno	\N	\N	\N	\N
+619	3320140304	\N	700	SES	\N	Sigit Edy 	Surono	\N	\N	\N	\N
+620	3320150316	\N	699	SGP	\N	Sigit	Purnomo	\N	\N	\N	\N
+621	3320080305	\N	701	SSB	\N	Sigit Susilo 	Broto	\N	\N	\N	\N
+622	3320150312	\N	702	SDY	\N	Silvia	Dewiyanti	\N	\N	\N	\N
+623	3320020956	\N	703	STM	\N	Sistomo		\N	\N	\N	\N
+624	3319900909	\N	704	SWS	\N	Siswandhi	Soepardjo	\N	\N	\N	\N
+625	3320180908	\N	705	SWR	\N	Sisworo		\N	\N	\N	\N
+626	3320160908	\N	708	SKS	\N	Siti	Khomsatun	\N	\N	\N	\N
+627	3320140907	\N	706	SMM	\N	Siti	Maemunah	\N	\N	\N	\N
+628	3320230103	\N	709	SMF	\N	Siti	Maghfiroh	\N	\N	\N	\N
+629	3320130301	\N	707	SMH	\N	Siti	Muhani	\N	\N	\N	\N
+630	3319990907	\N	710	SNM	\N	Siti	Ni'Mah	\N	\N	\N	\N
+631	3220220601	\N	168	SSH		Siti 	Sarah	S.Ak.	Jl. Raya Semplak caringin Gg. Mangga RT.02/09 Kel. Semplak, Kec. Bogor Barat, Kota Bogor	Islam	089505731970
+632	3320000951	\N	711	SDW	\N	Sobirin Danu 	Wasisto	\N	\N	\N	\N
+633	3320010912	\N	712	SMN	\N	Soemarno		\N	\N	\N	\N
+634	3319980915	\N	713	SMA	\N	Soeratmadi	Atmosasmito	\N	\N	\N	\N
+635	3320040926	\N	714	SPB	\N	Sophie	Barlian	\N	\N	\N	\N
+636	3320010501	\N	715	SBW	\N	Sri	Bawono	\N	\N	\N	\N
+637	3320150314	\N	717	SHT	\N	Sri	Hartini	\N	\N	\N	\N
+638	3320170903	\N	719	SRM	\N	Sri Mulyati 	S	\N	\N	\N	\N
+639	3320140309	\N	718	SRR	\N	Sri	Rahayu	\N	\N	\N	\N
+640	3319900914	\N	716	SRK	\N	Sri	Rehati Kusno	\N	\N	\N	\N
+641	3319960918	\N	720	SRS	\N	Srie	Sudarjati	\N	\N	\N	\N
+642	3319960904	\N	721	SDM	\N	Sudarmanu		\N	\N	\N	\N
+643	3320110304	\N	722	SUD	\N	Sudarno		\N	\N	\N	\N
+644	3320010925	\N	723	SDS	\N	Sudarsono		\N	\N	\N	\N
+645	3320000922	\N	724	SGW	\N	Sugeng	Wahyudi	\N	\N	\N	\N
+646	3319980925	\N	725	SGY	\N	Sugiyanto		\N	\N	\N	\N
+647	3319900904	\N	726	SJS	\N	Sujadi	Setyobroto	\N	\N	\N	\N
+648	3319980903	\N	727	SKA	\N	Sukarman	Ardi	\N	\N	\N	\N
+649	3320200903	\N	728	SLV	\N	Sulvia	Maulidiana	\N	\N	\N	\N
+650	3320020907	\N	729	SMD	\N	Sumardi		\N	\N	\N	\N
+651	3320060304	\N	730	SMJ	\N	Sumardjo		\N	\N	\N	\N
+652	3319950902	\N	731	SMY	\N	Sumiyanto		\N	\N	\N	\N
+653	3420150101	\N	732	SNR	\N	Sunar	Wahid	\N	\N	\N	\N
+654	3320040932	\N	733	SNT	\N	Sunarti		\N	\N	\N	\N
+655	3320020943	\N	734	STC	\N	Sunu Tri 	Cahyo	\N	\N	\N	\N
+656	3319900908	\N	735	SKM	\N	Supan	Kusumamihardja	\N	\N	\N	\N
+657	3320040905	\N	736	SPD	\N	Supardji		\N	\N	\N	\N
+658	3119940901	\N	184	SPM		Suparman		S.E	Jl. Riau Ujung Gg. Wargaluyu No. 5 Rt.01/04 Kel. Baranangsiang Kec. Bogor Timur Kota Bogor	Islam	088212998505
+659	3320000924	\N	737	SPN	\N	Suparno		\N	\N	\N	\N
+660	3319980912	\N	738	SKK	\N	Suroso	Kaskoyo	\N	\N	\N	\N
+661	3320070903	\N	739	SAS	\N	Surya Abadi 	Sembiring	\N	\N	\N	\N
+662	3319920201	\N	740	SYS	\N	Suryadi	Santoso	\N	\N	\N	\N
+663	3320040941	\N	741	SSN	\N	Susana	Dewi	\N	\N	\N	\N
+664	3320020919	\N	742	SAW	\N	Susi	Adiawaty	\N	\N	\N	\N
+665	3320150924	\N	743	SAJ	\N	Sutrisna	Amijaya	\N	\N	\N	\N
+666	3320020927	\N	744	SWD	\N	Suwandri	Sasmita	\N	\N	\N	\N
+667	3320180909	\N	745	SHJ	\N	Syachradjat		\N	\N	\N	\N
+668	3320020908	\N	746	SLA	\N	Syahlan	Asume	\N	\N	\N	\N
+669	3319950905	\N	747	SHA	\N	Syahrum	Agung	\N	\N	\N	\N
+670	3319960910	\N	748	SHY	\N	Syarief	Hidayatullah	\N	\N	\N	\N
+671	3320000921	\N	749	TAK	\N	T.A. Atmadja 	Kusuma	\N	\N	\N	\N
+672	3320060901	\N	750	TMK	\N	Taman	Ketaren	\N	\N	\N	\N
+673	3319900918	\N	751	TKL	\N	Tan Koen 	Liang	\N	\N	\N	\N
+674	3320030911	\N	752	TAS	\N	Tata A.Subrata 	W.	\N	\N	\N	\N
+675	3320200902	\N	753	TIM	\N	Team	Dosen	\N	\N	\N	\N
+676	3319990902	\N	755	TGP	\N	Teddy G. 	Pudiwan	\N	\N	\N	\N
+677	3319980920	\N	754	THL	\N	Teddy	Herlambang	\N	\N	\N	\N
+678	3320040911	\N	756	TGT	\N	Teguh	Triyanto	\N	\N	\N	\N
+679	3319950904	\N	757	TDL	\N	Theodorus	Lagarde	\N	\N	\N	\N
+680	3320150310	\N	758	TJS	\N	Thomas Junior 	Sibarani	\N	\N	\N	\N
+681	3319990906	\N	759	TSB	\N	Tiarta	Sebayang	\N	\N	\N	\N
+682	3320020915	\N	760	THY	\N	Titi	Hayati	\N	\N	\N	\N
+683	3320020916	\N	761	TTA	\N	Titin	Aminah	\N	\N	\N	\N
+684	3319950906	\N	762	TBD	\N	Tjep	Baden	\N	\N	\N	\N
+685	3320150925	\N	763	TMI	\N	Tjut Meutia Imelda 	T	\N	\N	\N	\N
+686	3319800901	\N	764	TDK	\N	Tn.Thung D.I.	Kusuma	\N	\N	\N	\N
+687	3320020928	\N	765	TGS	\N	Togar	Saragih	\N	\N	\N	\N
+688	3320010918	\N	766	TNB	\N	Toni	Bakhtiar	\N	\N	\N	\N
+689	3320220901	\N	767	TSY	\N	Toto	Sugihyanto	\N	\N	\N	\N
+690	3320110902	\N	769	TAP	\N	Tri Ayu 	Prabaningrum	\N	\N	\N	\N
+691	3320170913	\N	768	TWT	\N	Tri	Widyastuti	\N	\N	\N	\N
+692	3320040907	\N	770	TMD	\N	Turmudzi		\N	\N	\N	\N
+693	3320020910	\N	771	TWY	\N	Tutik	Wiryanti	\N	\N	\N	\N
+694	3320220805	\N	772	TTN	\N	Tutty	Nuryati	\N	\N	\N	\N
+695	3320110301	\N	773	TTS	\N	Tutut	Sunarminto	\N	\N	\N	\N
+696	3320110305	\N	774	UJA	\N	Ujang	Abutaman	\N	\N	\N	\N
+697	3320000952	\N	775	UTL	\N	Umi	Tira Lestari	\N	\N	\N	\N
+698	3320000913	\N	776	UND	\N	Undang		\N	\N	\N	\N
+699	3320050912	\N	778	UNP	\N	Untung Napoleon 	Panjaitan	\N	\N	\N	\N
+700	3319990912	\N	777	UTD	\N	Untung	Tedano	\N	\N	\N	\N
+701	3319960909	\N	779	USK	\N	Usman S. 	Kono	\N	\N	\N	\N
+702	3320020953	\N	780	VCN	\N	V.	Chrisnawan	\N	\N	\N	\N
+703	3320030925	\N	782	VDZ	\N	Vera Dianti 	Zaleha	\N	\N	\N	\N
+704	3320170916	\N	781	VMN	\N	Vera	Mita Nia	\N	\N	\N	\N
+705	3320040934	\N	783	VDA	\N	Veronica Dwi 	Anggraeni	\N	\N	\N	\N
+706	3320010922	\N	784	WDM	\N	Wadi	Masturi	\N	\N	\N	\N
+707	3319970905	\N	785	WHS	\N	Wahiddinsyah		\N	\N	\N	\N
+708	3320140310	\N	786	WBO	\N	Wahjoe Boedi 	Oetomo	\N	\N	\N	\N
+709	3320100305	\N	787	WID	\N	Wahyu	Isnindiarto	\N	\N	\N	\N
+710	3319990903	\N	789	WWJ	\N	Wahyu	Widajati	\N	\N	\N	\N
+711	3320160902	\N	788	WDD	\N	Wahyu	Widodo	\N	\N	\N	\N
+712	3320030904	\N	790	WHY	\N	Wakhyudi		\N	\N	\N	\N
+713	3320060904	\N	791	WSA	\N	Warsito	Adi	\N	\N	\N	\N
+714	3319990911	\N	792	WTH	\N	Wartoyo	Hadi	\N	\N	\N	\N
+715	3320020944	\N	793	WKS	\N	Waskito	Sulaeman	\N	\N	\N	\N
+716	3320000905	\N	794	WPD	\N	Wibowo	Prihardijanto	\N	\N	\N	\N
+717	3320040913	\N	795	WDN	\N	Widhi	Novianto	\N	\N	\N	\N
+718	3320200918	\N	796	WJY	\N	Wijaya		\N	\N	\N	\N
+719	3320180910	\N	797	WPM	\N	Wijaya Pranata 	Mulia	\N	\N	\N	\N
+720	3319900910	\N	798	WSP	\N	Wilson	Pandiwijaya	\N	\N	\N	\N
+721	3319980929	\N	799	WNM	\N	Winarno		\N	\N	\N	\N
+722	3320230914	\N	800	WDS	\N	Windawaty Saurmauli 	Pangaribuan	\N	\N	\N	\N
+723	3319980935	\N	801	YKA	\N	Y. Kuncoro 	Adi	\N	\N	\N	\N
+724	3319980931	\N	802	YRA	\N	Y. Ronny 	Agandhi	\N	\N	\N	\N
+725	3320200910	\N	803	YHH	\N	Yohan	Handono	\N	\N	\N	\N
+726	3320000946	\N	804	YEE	\N	Yohanes Elly Eser 	S	\N	\N	\N	\N
+727	3320150926	\N	805	YTK	\N	Yonathan	Kastara	\N	\N	\N	\N
+728	3320000923	\N	806	YPT	\N	Yosua P. L. 	Tobing	\N	\N	\N	\N
+729	3320020933	\N	807	YYW	\N	Yoyok	Wijatmiko	\N	\N	\N	\N
+730	3320200907	\N	808	YAP	\N	Yudawan Aji 	Pratomo	\N	\N	\N	\N
+731	3320020950	\N	809	YHA	\N	Yudha Heryawan 	Asnawi	\N	\N	\N	\N
+732	3120161106	\N	810	YDP	\N	Yudi	Permana	\N	\N	\N	\N
+733	3320220803	\N	811	YGT	\N	Yugo	Goutomo	\N	\N	\N	\N
+734	3320130902	\N	812	YLA	\N	Yuli	Anwar	\N	\N	\N	\N
+735	3320000914	\N	813	YNY	\N	Yusrinaldi	Yoelizon	\N	\N	\N	\N
+736	3319900902	\N	814	YSN	\N	Yusuf	Sarnoto	\N	\N	\N	\N
+737	3319960917	\N	815	YSP	\N	Yusup	Permana	\N	\N	\N	\N
+738	3320050904	\N	816	YSF	\N	Yuswan	Farmanta	\N	\N	\N	\N
+739	3320140306	\N	817	YDT	\N	Yuti Dwi	Putri	\N	\N	\N	\N
+740	3320000919	\N	818	ZNA	\N	Zaenal	Abidin	\N	\N	\N	\N
+741	3320020917	\N	819	ZAS	\N	Zeklin Agung 	Satriyo	\N	\N	\N	\N
+742	3120190702	\N	820	ZVA	\N	Zevi	Apriyandi	\N	\N	\N	\N
+743	3320150932	\N	821	ZFS	\N	Zona Fajar 	Setiawan	\N	\N	\N	\N
+744	3320050901	\N	822	ZAH	\N	Zul	Azhar	\N	\N	\N	\N
+745	3320020945	\N	823	ZFA	\N	Zulfia	Artiza	\N	\N	\N	\N
+746	3320010917	\N	824	ZFM	\N	Zulfikar	Moesa	\N	\N	\N	\N
