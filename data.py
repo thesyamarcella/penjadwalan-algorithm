@@ -175,4 +175,3 @@ def write(slot_presentation, supervisor_preference, constraints_count, plot_data
             else:
                 presentation = presentation[0] + 1  # Access x in array([x])
                 writer.writerow(["P" + str(presentation), ""])
-
