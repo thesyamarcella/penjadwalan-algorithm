@@ -1,4 +1,4 @@
-"id_ruangan","nama_ruangan","nama_gedung","kapasitas"
+id_ruangan,name,nama_gedung,kapasitas
 "1","1","GEDUNG LAMA R - 1","50"
 "2","10","GEDUNG LAMA R - 10","50"
 "3","101","GEDUNG BARU R","50"

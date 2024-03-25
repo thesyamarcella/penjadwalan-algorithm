@@ -1,4 +1,4 @@
-id_dosen	nip	nidn	id_pegawai	inisial	gelar_depan	nama_depan	nama_belakang	gelar_belakang	alamat	agama	telp_seluler
+id_dosen	nip	nidn	id_pegawai	inisial	gelar_depan	name	nama_belakang	gelar_belakang	alamat	agama	telp_seluler
 1	3120170701	0415118305	1	ABF		Abdul	Roup	SE., M.Ak., CCNSP.	Kampung Cinyosog Rt 03/01 Desa Pasir Angin Kec. Cileungsi Kab. Bogor	Islam	085775456625
 2	3120191014	0405018804	3	AMY		Ade	Mulyana	S.SI., M.Kom.	Jl. Ashari Jaya, Indahsari No. 01 RT.01/01 Kel. Harjasari, Bogor Selatan, Kota Bogor	Islam	081807136111
 3	3120120903	0408097505	4	AYD		Ade	Yusdira	SE., MM.	Gg. Raden Kosasih RT 04/01 Bogor	Islam	081282613400

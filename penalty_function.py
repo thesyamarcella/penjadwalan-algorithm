@@ -10,8 +10,8 @@ def penalty(slot_presentation, presentation_presentation, presentation_superviso
     sc_count = 0
     presentation_no = slot_presentation.shape[1]
     supervisor_no = supervisor_preference.shape[0]
-    venue_no = 123
-    time_slot_no = 24
+    venue_no = 68
+    time_slot_no = 48
     day_slot_no = venue_no * time_slot_no
     day_no = 6
     presentation_presentation = np.copy(presentation_presentation)
