@@ -13,25 +13,23 @@ CourseClass.classes = [CourseClass("TIS10001"),CourseClass("TIS10002"),CourseCla
                        CourseClass("TIS10005"),CourseClass("TIS10006"),CourseClass("TIS10001"),
                         CourseClass("TIS3001")]
 
-Room.rooms = [Room("B205", 40), Room("B215", 40), Room("B404", 40),
-              Room("B211", 40, is_lab=True),Room("B12", 40, is_lab=True)]
+Room.rooms = [Room("B205", 30), Room("B215", 30), Room("B404", 30),
+              Room("B211", 20, is_lab=True),Room("B12", 20, is_lab=True)]
 
 Schedule.schedules = [Schedule("08:15", "10:00", "Mon"), Schedule("10:15", "12:00", "Mon"),
                       Schedule("13:15", "15:00", "Mon"), Schedule("15:15", "17:00", "Mon"), 
-                      Schedule("08:15", "10:00", "tue"), Schedule("10:15", "12:00", "tue"),
-                      Schedule("13:15", "15:00", "tue"), Schedule("15:15", "17:00", "tue"),
-                      Schedule("08:15", "10:00", "wed"), Schedule("10:15", "12:00", "wed"),
-                      Schedule("13:15", "15:00", "wed"), Schedule("15:15", "17:00", "wed"),
-                      Schedule("08:15", "10:00", "thu"), Schedule("10:15", "12:00", "thu"),
-                      Schedule("13:15", "15:00", "thu"), Schedule("15:15", "17:00", "thu"),]
+                    ]
 
-
+dosen_available_time = {
+    "Septian Cahyadi S.Kom., M.Kom.": ["Mon_08:15", "Tue_10:15", "Wed_13:15"],
+    "Damatraseta ST., M.Kom.": ["Mon_10:15", "Tue_08:15", "Wed_10:15"],
+}
 max_score = None
 
 cpg = []
 lts = []
 slots = []
-bits_needed_backup_store = {}  # to improve performance
+bits_needed_backup_store = {}  
 
 
 def bits_needed(x):
@@ -201,6 +199,15 @@ def appropriate_timeslot(chromosomes):
             scores = scores + 1
     return scores
 
+def validate_dosen_time(chromosome):
+    score = 0
+    for lec in chromosome:
+        dosen = Dosen.dosen[int(dosen_bits(lec), 2)]
+        slot_index = int(slot_bits(lec), 2)
+        time_slot = Schedule.schedules[slot_index].day + "_" + Schedule.schedules[slot_index].start
+        if time_slot not in dosen_available_time.get(dosen.nama_dosen, []):
+            score -= 1  # Kurangi skor jika waktu tidak tersedia
+    return score
 
 def evaluate(chromosomes):
     global max_score
@@ -211,6 +218,7 @@ def evaluate(chromosomes):
     score = score + kelas_member_one_class(chromosomes)
     score = score + appropriate_room(chromosomes)
     score = score + appropriate_timeslot(chromosomes)
+    score += validate_dosen_time(chromosomes)  # Tambahkan validasi ketersediaan waktu dosen
     return score / max_score
 
 def cost(solution):
